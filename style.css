@@ -1,0 +1,17 @@
+.button-back {
+    background-color: #FC9F04;
+}
+.button-back-brimary{
+    background-color: #505050 !important;
+}
+.button-back-sec{
+    background-color: #A3A4A6;
+}
+.button-back-sec:hover{
+    background-color: #A3A4A6 !important;
+}
+.button-back:hover {
+    background-color: #FC9F04 !important;
+}
+.btn{
+    --bs-btn-border-color: none !important;
